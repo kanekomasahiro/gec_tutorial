@@ -55,7 +55,7 @@ python -u $FAIRSEQ_DIR/train.py $PROCESSED_DIR/bin \
   --target-lang trg \
   --log-format simple \
   --fp16 \
-  --max-epoch 3 \
+  --max-epoch 30 \
   --arch transformer_vaswani_wmt_en_de_big \
   --max-tokens 4096 \
   --optimizer adam \
