@@ -1,4 +1,4 @@
-# Fairseqで文法誤り訂正モデルを学習・推論する
+# Fairseqで文法誤り訂正モデルを学習，推論と評価する
 
 文法誤り訂正 (Grammatical Error Correction; GEC) に入門する[ブログ記事]()のコードである．
 
