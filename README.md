@@ -55,7 +55,7 @@ mkdir eval
 # M2のダウンロード
 git clone https://github.com/kanekomasahiro/m2_python3.git eval/m2_python3
 # GLEUのダウンロード
-git clone https://github.com/kanekomasahiro/gec-ranking_python3.git
+git clone https://github.com/kanekomasahiro/gec-ranking_python3.git eval/gec-ranking_python3
 # 使わないが一応ERRANTのダウンロード
 git clone https://github.com/chrisjbryant/errant.git eval/errant
 ```
