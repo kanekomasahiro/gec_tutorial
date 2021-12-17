@@ -65,4 +65,5 @@ git clone https://github.com/chrisjbryant/errant.git eval/errant
 ./script/interactive.sh [wi/conll/jfleg]
 ```
 W&I+LOCNESSは評価データのターゲット側が公開されていないため，[CodaLab](https://competitions.codalab.org/competitions/20228)にGECモデルの推論結果を投稿する必要がある．アカウントを作成し，`zip`コマンドにより推論結果を圧縮しParticipateのSubmitを押してアップロードすることでスコアを取得できる．
+seedによって1.5ぐらい前後するがスコアとしてはW&I+LOCNESS: 50, CoNLL-2014: 49, JFLEG: 53がでる．
 
