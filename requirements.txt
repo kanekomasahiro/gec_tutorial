@@ -1,0 +1,4 @@
+mock==4.0.3
+subword-nmt==0.3.8
+tqdm==4.62.3
+scipy==1.7.3
