@@ -1,6 +1,5 @@
 seed=1111
 num_operations=8000
-subword_model=model/bpe.model
 cpu_num=`grep -c ^processor /proc/cpuinfo`
 
 FAIRSEQ_DIR=fairseq/fairseq_cli
